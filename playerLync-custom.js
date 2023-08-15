@@ -1,1 +1,1 @@
-console.log("MIKES TEST HOSTED JS SCRIPT");
+console.log("MIKES TEST HOSTED JS SCRIPT V2");
